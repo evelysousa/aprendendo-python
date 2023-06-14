@@ -1,3 +1,3 @@
 # aprendendo-python
 
-Este 'e o meu primeiro projeto em Python.
+Este é o meu primeiro projeto em Python.
