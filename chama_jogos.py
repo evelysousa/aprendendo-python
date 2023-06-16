@@ -13,3 +13,6 @@ if (jogo == 1):
 elif (jogo == 2):
     jogo_chute_numero.jogar()
     print("Jogando adivinhação")
+
+if(__name__=="__main__"):
+    escolha_jogo()

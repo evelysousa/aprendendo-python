@@ -1,5 +1,5 @@
 def jogar():
-  print("*Bem vindo ao nosso jogo*")
+  print("*Bem vindo ao nosso jogo da forca*")
 
 
 
